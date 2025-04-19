@@ -1,0 +1,30 @@
+main {  
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+  
+}
+
+.body{
+
+    padding: auto;
+    background-image: linear-gradient(180deg, white, black);
+    background-image: linear-gradient(90deg,#D90404, #D94A4A, #F28080, #F2B6B6,#F2F2F2);
+    background-image: radial-gradient(circle,#D90404, #D94A4A, #F28080, #F2B6B6,#F2F2F2);
+    background-attachment: fixed;
+    
+    
+}
+
+.fundo{
+    
+    width: 100%;
+    height: 100%;
+    background-image: url('./torcida-flamengo-maraca.webp ');
+    background-repeat:repeat-y;
+    background-size: cover;
+    text-align: center;
+}
